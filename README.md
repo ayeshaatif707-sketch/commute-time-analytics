@@ -61,7 +61,7 @@ commute-time-analytics/
 ---
 
 ## 📸 Sample Output
-(Add screenshot of Excel file here in `/images` folder)
+![Excel Output](images/output_preview.png)
 
 ---
 
